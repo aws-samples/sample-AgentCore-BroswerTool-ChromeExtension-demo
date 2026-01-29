@@ -322,8 +322,3 @@ graph TD
 - 添加Extension热更新机制
 - 实现Extension版本管理
 - 支持Extension配置动态更新
-
----
-
-**生成时间**: 2026-01-29
-**项目路径**: `/Users/zihangh/PycharmProjects/StrandsSDK/sample-strands_demos/AgentCoreBrowser_extentionDemo`
