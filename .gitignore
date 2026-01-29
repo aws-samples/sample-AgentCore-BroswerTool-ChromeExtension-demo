@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Extension files and build artifacts
+stealth_extension/
+amazon-bedrock-summary-client-for-chrome/
+*.zip
+
+# Temporary files
+temp_extension*/
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation (keep only README.md)
+USAGE_GUIDE.md
+VERIFICATION_CHECKLIST.md
+PROJECT_STATUS.md
